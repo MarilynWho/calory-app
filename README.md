@@ -30,6 +30,10 @@ GITHUB:
 
 LIVE PAGE:
  > https://marilynwho.github.io/calory-app/
+ 
+ ## PRESENTATION
+ 
+  > https://drive.google.com/file/d/1-uA-C6adLpBoX7Cj5EtrJ51-DUlJFigT/view?usp=sharing
 
 
 ## FUTURE DEVELOPMENTS
